@@ -1,5 +1,5 @@
-#ifndef NAMEOFPROJECT_COMBINE_H
-#define NAMEOFPROJECT_H
+#ifndef COMBINE_H
+#define COMBINE_H
 
 #include <iostream>
 
@@ -37,5 +37,5 @@ public:
 	void setPublicFields(std::string, int);
 };
 
-#endif //NAMEOFPROJECT_COMBINE_H
+#endif
 
